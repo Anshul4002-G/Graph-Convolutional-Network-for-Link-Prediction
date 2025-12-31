@@ -1,5 +1,9 @@
 # Graph Convolutional Network for Link Prediction
 
+# Interactive Link
+
+"http://127.0.0.1:5500/results/graph_visualization.html"
+
 ## Overview
 
 This project implements a **Graph Convolutional Network (GCN)** to perform **link prediction** on a social network graph. The objective is to learn node representations from graph structure and use them to predict missing or potential connections between nodes.
@@ -144,7 +148,6 @@ Training logs in the terminal
 Evaluation metrics in results/metrics.txt
 
 Interactive graph visualization in results/graph_visualization.html
-Link = "http://127.0.0.1:5500/results/graph_visualization.html"
 
 ```
 
