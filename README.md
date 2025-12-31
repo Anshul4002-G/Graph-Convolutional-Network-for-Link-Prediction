@@ -144,6 +144,7 @@ Training logs in the terminal
 Evaluation metrics in results/metrics.txt
 
 Interactive graph visualization in results/graph_visualization.html
+Link = "http://127.0.0.1:5500/results/graph_visualization.html"
 
 ```
 
