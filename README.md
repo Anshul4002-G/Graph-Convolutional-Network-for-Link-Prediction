@@ -2,7 +2,9 @@
 
 # Interactive Link
 
-"http://127.0.0.1:5500/results/graph_visualization.html"
+UI 1 :"https://github.com/Anshul4002-G/Graph-Convolutional-Network-for-Link-Prediction/blob/main/screenshots/Screenshot%202025-12-31%20112032.png"
+
+UI 2 : "https://github.com/Anshul4002-G/Graph-Convolutional-Network-for-Link-Prediction/blob/main/screenshots/Screenshot%202025-12-31%20112738.png"
 
 ## Overview
 
