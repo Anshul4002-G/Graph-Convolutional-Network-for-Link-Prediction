@@ -151,4 +151,8 @@ Interactive graph visualization in results/graph_visualization.html
 
 ```
 
+## Author
+**Name:** Anshul
+**Course:** B.Tech AIML
+**Date:** January 2026
 ```
