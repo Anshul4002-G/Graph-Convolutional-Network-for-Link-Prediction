@@ -4,6 +4,7 @@ from torch_geometric.utils import from_networkx
 from torch_geometric.transforms import RandomLinkSplit
 
 
+
 def load_graph():
     """
     Loads the Karate Club graph and prepares it for
